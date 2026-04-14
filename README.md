@@ -54,15 +54,6 @@ Self-sovereign identity based sign-in flow that replaces traditional username/pa
 
 ---
 
-## GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy-santhu&layout=compact&theme=radical&hide_border=true&count_private=true"
-  alt="Top languages"
-/>
-
----
-
 ## Connect With Me
 
 <p align="center">
